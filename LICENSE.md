@@ -43,6 +43,7 @@ k. __You__ means the individual or entity exercising the Licensed Rights under t
 a. __License grant.__
 
 1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+
 A. *reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and*
 
 B. *produce and reproduce, but not Share, Adapted Material for NonCommercial purposes only.*
