@@ -18,8 +18,6 @@ The prerequisite for conducting all assessments is at least 51 GB of memory spac
    
 4. The 13 consecutive PUMS csv_pus.zip datasets of 1-year estimates need to be downloaded and put in the [Time Assets](# Deaf-Latinx-Repository
 
-**[Overview](#overview)** | **[How To Start](start)** | **[Why Unusable the 2020 Dataset is](files)**
-
 ## Overivew <a id = 'overview'></a>
 
 The National Deaf Center on Postsecondary Outcomes' 2021 Deaf Latinx report aims to understand which aspects of employment experiences might be unique, or not, to the deaf Latinx population. The report's analyses are based on this repository, which contains the R syntax for all statistical assessments, thereby enabling the public to reproduce or update the results. However, in so doing, 13 Public Use Microdata Sample (PUMS) datasets from 1-year estimates and 2 datasets of 5-year estimates from American Community Survey (ACS) are required.
