@@ -1,0 +1,192 @@
+FOD,Code,Group,Subgroup
+Computer And Information Systems-General,2100,Science and Engineering Group,"Computers, Mathematics and Statistics"
+Computer Science,2102,Science and Engineering Group,"Computers, Mathematics and Statistics"
+Computer Systems Analysis,2103,Science and Engineering Group,"Computers, Mathematics and Statistics"
+Information Sciences,2105,Science and Engineering Group,"Computers, Mathematics and Statistics"
+Computer Administration Management And Security,2106,Science and Engineering Group,"Computers, Mathematics and Statistics"
+Computer Networking And Telecommunications,2107,Science and Engineering Group,"Computers, Mathematics and Statistics"
+Miscellaneous Computer Sciences,2199,Science and Engineering Group,"Computers, Mathematics and Statistics"
+Mathematics,3700,Science and Engineering Group,"Computers, Mathematics and Statistics"
+Applied Mathematics,3701,Science and Engineering Group,"Computers, Mathematics and Statistics"
+Statistics,3702,Science and Engineering Group,"Computers, Mathematics and Statistics"
+Decision Science,3705,Science and Engineering Group,"Computers, Mathematics and Statistics"
+Miscellaneous Mathematics,3799,Science and Engineering Group,"Computers, Mathematics and Statistics"
+General Agriculture,1100,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Agriculture Production And Management,1101,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Agricultural Economics,1102,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Animal Sciences,1103,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Food Science,1104,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Plant Science And Agronomy,1105,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Soil Science,1106,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Miscellaneous Agriculture,1199,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Environmental Science,1301,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Forestry,1302,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Natural Resources Management,1303,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Biology,3600,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Biochemical Sciences,3601,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Botany,3602,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Molecular Biology,3603,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Ecology,3604,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Genetics,3605,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Microbiology,3606,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Pharmacology,3607,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Physiology,3608,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Zoology,3609,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Epidemiology,3610,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Neuroscience,3611,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Miscellaneous Biology,3699,Science and Engineering Group,"Biological, Agricultural, and Environmental Sciences"
+Physical Sciences,5000,Science and Engineering Group,Science and Engineering
+Astronomy And Astrophysics,5001,Science and Engineering Group,Science and Engineering
+Atmospheric Sciences And Meteorology,5002,Science and Engineering Group,Science and Engineering
+Chemistry,5003,Science and Engineering Group,Science and Engineering
+Geology And Earth Science,5004,Science and Engineering Group,Science and Engineering
+Geosciences,5005,Science and Engineering Group,Science and Engineering
+Oceanography,5006,Science and Engineering Group,Science and Engineering
+Physics,5007,Science and Engineering Group,Science and Engineering
+Materials Science,5008,Science and Engineering Group,Science and Engineering
+Multi-Disciplinary Or General Science,5098,Science and Engineering Group,Science and Engineering
+Miscellaneous Physical Sciences,5099,Science and Engineering Group,Science and Engineering
+Psychology,5200,Science and Engineering Group,Psychology
+Educational Psychology,5201,Science and Engineering Group,Psychology
+Clinical Psychology,5202,Science and Engineering Group,Psychology
+Counseling Psychology,5203,Science and Engineering Group,Psychology
+Experimental Psychology,5204,Science and Engineering Group,Psychology
+Industrial And Organizational Psychology,5205,Science and Engineering Group,Psychology
+Social Psychology,5206,Science and Engineering Group,Psychology
+Miscellaneous Psychology,5299,Science and Engineering Group,Psychology
+Area Ethnic And Civilization Studies,1501,Science and Engineering Group,Social Science
+General Social Sciences,5500,Science and Engineering Group,Social Science
+Economics,5501,Science and Engineering Group,Social Science
+Anthropology And Archeology,5502,Science and Engineering Group,Social Science
+Criminology,5503,Science and Engineering Group,Social Science
+Geography,5504,Science and Engineering Group,Social Science
+International Relations,5505,Science and Engineering Group,Social Science
+Political Science And Government,5506,Science and Engineering Group,Social Science
+Sociology,5507,Science and Engineering Group,Social Science
+Miscellaneous Social Sciences,5599,Science and Engineering Group,Social Science
+History And Philosophy Of Science And Technology,6401,Science and Engineering Group,Social Science
+General Engineering,2400,Science and Engineering Group,Science and Engineering
+Aerospace Engineering,2401,Science and Engineering Group,Science and Engineering
+Biological Engineering,2402,Science and Engineering Group,Science and Engineering
+Architectural Engineering,2403,Science and Engineering Group,Science and Engineering
+Biomedical Engineering,2404,Science and Engineering Group,Science and Engineering
+Chemical Engineering,2405,Science and Engineering Group,Science and Engineering
+Civil Engineering,2406,Science and Engineering Group,Science and Engineering
+Computer Engineering,2407,Science and Engineering Group,Science and Engineering
+Electrical Engineering,2408,Science and Engineering Group,Science and Engineering
+Engineering Mechanics Physics And Science,2409,Science and Engineering Group,Science and Engineering
+Environmental Engineering,2410,Science and Engineering Group,Science and Engineering
+Geological And Geophysical Engineering,2411,Science and Engineering Group,Science and Engineering
+Industrial And Manufacturing Engineering,2412,Science and Engineering Group,Science and Engineering
+Materials Engineering And Materials Science,2413,Science and Engineering Group,Science and Engineering
+Mechanical Engineering,2414,Science and Engineering Group,Science and Engineering
+Metallurgical Engineering,2415,Science and Engineering Group,Science and Engineering
+Mining And Mineral Engineering,2416,Science and Engineering Group,Science and Engineering
+Naval Architecture And Marine Engineering,2417,Science and Engineering Group,Science and Engineering
+Nuclear Engineering,2418,Science and Engineering Group,Science and Engineering
+Petroleum Engineering,2419,Science and Engineering Group,Science and Engineering
+Operations Research,2420,Science and Engineering Group,Science and Engineering
+Miscellaneous Engineering,2499,Science and Engineering Group,Science and Engineering
+Multi-Disciplinary Studies,4000,Science and Engineering Group,Multidisciplinary Studies
+Intercultural And International Studies,4001,Science and Engineering Group,Multidisciplinary Studies
+Nutrition Sciences,4002,Science and Engineering Group,Multidisciplinary Studies
+Accounting And Computer Science,4004,Science and Engineering Group,Multidisciplinary Studies
+Mathematics And Computer Science,4005,Science and Engineering Group,Multidisciplinary Studies
+Cognitive Science And Biopsychology,4006,Science and Engineering Group,Multidisciplinary Studies
+Interdisciplinary Social Sciences,4007,Science and Engineering Group,Multidisciplinary Studies
+Architecture,1401,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Computer Programming,2101,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Data Processing,2104,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Computer Teacher Education,2302,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Mathematics Teacher Education,2305,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Science Teacher Education,2308,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Engineering Technologies,2500,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Engineering And Industrial Management,2501,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Electrical Engineering Technology,2502,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Industrial Production Technologies,2503,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Mechanical Engineering Related Technologies,2504,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Miscellaneous Engineering Technologies,2599,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Applied Biotechnology,5101,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Nuclear And Industrial Radiology Technologies,5102,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+General Medical And Health Services,6100,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Communication Disorders Sciences And Services,6102,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Health And Medical Administrative Services,6103,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Medical Assisting Services,6104,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Medical Technologies Technicians,6105,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Health And Medical Preparatory Programs,6106,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Nursing,6107,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Pharmacy Pharmaceutical Sciences And Administration,6108,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Treatment Therapy Professions,6109,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Community And Public Health,6110,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Energy And Biologically Based Therapies,6111,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Miscellaneous Health Medical Professions,6199,Science and Engineering Related Fields,"Science and Engineering Related Fields (e.g., architecture, math teacher)"
+Court Reporting,3201,Business,Business
+Medical Office Assistance And Administration,6101,Business,Business
+General Business,6200,Business,Business
+Accounting,6201,Business,Business
+Actuarial Science,6202,Business,Business
+Business Management And Administration,6203,Business,Business
+Operations Logistics And E-Commerce,6204,Business,Business
+Business Economics,6205,Business,Business
+Marketing,6206,Business,Business
+Finance,6207,Business,Business
+Marketing Research,6208,Business,Business
+Human Resources And Personnel Management,6209,Business,Business
+International Business,6210,Business,Business
+Hospitality Management,6211,Business,Business
+Management Information Systems And Statistics,6212,Business,Business
+Miscellaneous Business,6299,Business,Business
+General Education,2300,Education,Education
+Educational Administration And Supervision,2301,Education,Education
+School Student Counseling,2303,Education,Education
+Elementary Education,2304,Education,Education
+Physical And Health Education Teaching,2306,Education,Education
+Early Childhood Education,2307,Education,Education
+Secondary Teacher Education,2309,Education,Education
+Special Needs Education,2310,Education,Education
+Social Science Or History Teacher Education,2311,Education,Education
+Teacher Education: Multiple Levels,2312,Education,Education
+Language And Drama Education,2313,Education,Education
+Art And Music Education,2314,Education,Education
+Miscellaneous Education,2399,Education,Education
+Linguistics And Comparative Language And Literature,2601,"Arts, Humanities, and Other",Literature and Languages
+French German Latin And Other Common Foreign Language Studies,2602,"Arts, Humanities, and Other",Literature and Languages
+Other Foreign Languages,2603,"Arts, Humanities, and Other",Literature and Languages
+English Language And Literature,3301,"Arts, Humanities, and Other",Literature and Languages
+Composition And Rhetoric,3302,"Arts, Humanities, and Other",Literature and Languages
+Liberal Arts,3401,"Arts, Humanities, and Other",Liberal Arts and History
+Humanities,3402,"Arts, Humanities, and Other",Liberal Arts and History
+Philosophy And Religious Studies,4801,"Arts, Humanities, and Other",Liberal Arts and History
+Theology And Religious Vocations,4901,"Arts, Humanities, and Other",Liberal Arts and History
+History,6402,"Arts, Humanities, and Other",Liberal Arts and History
+United States History,6403,"Arts, Humanities, and Other",Liberal Arts and History
+Fine Arts,6000,"Arts, Humanities, and Other",Visual and Performing Arts
+Drama And Theater Arts,6001,"Arts, Humanities, and Other",Visual and Performing Arts
+Music,6002,"Arts, Humanities, and Other",Visual and Performing Arts
+Visual And Performing Arts,6003,"Arts, Humanities, and Other",Visual and Performing Arts
+Commercial Art And Graphic Design,6004,"Arts, Humanities, and Other",Visual and Performing Arts
+Film Video And Photographic Arts,6005,"Arts, Humanities, and Other",Visual and Performing Arts
+Art History And Criticism,6006,"Arts, Humanities, and Other",Visual and Performing Arts
+Studio Arts,6007,"Arts, Humanities, and Other",Visual and Performing Arts
+Video Game Design And Development,6008,"Arts, Humanities, and Other",Visual and Performing Arts
+Miscellaneous Fine Arts,6099,"Arts, Humanities, and Other",Visual and Performing Arts
+Communications,1901,"Arts, Humanities, and Other",Communications
+Journalism,1902,"Arts, Humanities, and Other",Communications
+Mass Media,1903,"Arts, Humanities, and Other",Communications
+Advertising And Public Relations,1904,"Arts, Humanities, and Other",Communications
+Communication Technologies,2001,"Arts, Humanities, and Other",Communications
+Cosmetology Services And Culinary Arts,2201,"Arts, Humanities, and Other",Other
+Family And Consumer Sciences,2901,"Arts, Humanities, and Other",Other
+Pre-Law And Legal Studies,3202,"Arts, Humanities, and Other",Other
+Library Science,3501,"Arts, Humanities, and Other",Other
+Military Technologies,3801,"Arts, Humanities, and Other",Other
+Physical Fitness Parks Recreation And Leisure,4101,"Arts, Humanities, and Other",Other
+Criminal Justice And Fire Protection,5301,"Arts, Humanities, and Other",Other
+Public Administration,5401,"Arts, Humanities, and Other",Other
+Public Policy,5402,"Arts, Humanities, and Other",Other
+Human Services And Community Organization,5403,"Arts, Humanities, and Other",Other
+Social Work,5404,"Arts, Humanities, and Other",Other
+Construction Services,5601,"Arts, Humanities, and Other",Other
+Electrical And Mechanic Repairs And Technologies,5701,"Arts, Humanities, and Other",Other
+Precision Production,5801,"Arts, Humanities, and Other",Other
+Transportation Sciences And Technologies,5901,"Arts, Humanities, and Other",Other
