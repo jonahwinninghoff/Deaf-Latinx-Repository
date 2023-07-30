@@ -1,4 +1,4 @@
-<p align="center"><img src="Image/CC_BY-NC-ND.svg" alt="CC BY-NC-ND icon" width="70"/></p>
+<p align="center"><img src="Image/CC_BY-NC-ND.svg" alt="CC BY-NC-ND icon" width="90"/></p>
 
 # Attribution-NonCommercial-NoDerivatives 4.0 International
 
