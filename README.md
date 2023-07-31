@@ -16,7 +16,7 @@ The prerequisite for conducting all assessments is at least 51 GB of memory spac
 
 3. The most recent PUMS csv_hus.zip and csv_pus.zip datasets of 5-year estimates need to be downloaded and placed in the [Assets](Assets) folder on the desktop where the repository has been cloned.
    
-4. Excluding the 2020 dataset, the 13 consecutive PUMS csv_pus.zip datasets of 1-year estimates need to be downloaded and placed in the [Time Assets](Time Assets) folder on the desktop.
+4. Excluding the 2020 dataset, the 13 consecutive PUMS csv_pus.zip datasets of 1-year estimates need to be downloaded and placed in the [Time Assets](Time%20Assets) folder on the desktop.
 
 5. The ```DeafLatinx.Rproj``` needs to be opened on the desktop, followed by the```RScript.R```. This script needs to be able to run without any issues. If problems arise, there may be missing dependencies (such as ```dplyr```, ```tidyr```, or ```tidycensus```) or the coding may need refactoring.
 
