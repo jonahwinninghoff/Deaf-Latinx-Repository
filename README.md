@@ -1,6 +1,6 @@
 # Deaf-Latinx-Repository
 
-**[Overview](#overview)** | **[How To Start](start)** | **[Why the 2020 PUMS Dataset Excludes](files)**
+**[Overview](#overview)** | **[How To Start](#start)** | **[Why the 2020 PUMS Dataset Excludes](#files)**
 
 ## Overview <a id = 'overview'></a>
 
