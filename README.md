@@ -24,4 +24,8 @@ The prerequisite for conducting all assessments is at least 51 GB of memory spac
 
 ## Why the 2020 PUMS Dataset Excludes <a id = 'files'></a>
 
-The 2020 PUMS dataset of 1-year estimates is largely unusable due to the nonresponse bias. The Census Bureau staff found high nonresponse from *people with lower income*, and *lower educational attainment*, and *who were less likely to own their home*. The implication is that this dataset may stymie the quality of assessments, misrepresenting the deaf postsecondary outcomes.  
+The 2020 PUMS dataset of 1-year estimates is largely unusable due to the nonresponse bias. The [Census Bureau](https://www.census.gov/newsroom/press-releases/2021/changes-2020-acs-1-year.html) staff found high nonresponse from *people with lower income*, and *lower educational attainment*, and *who were less likely to own their home*. The implication is that this dataset may stymie the quality of assessments, misrepresenting the deaf postsecondary outcomes.
+
+## Reference
+
+U.S. Census Bureau. (2021). *Census Bureau Announces Changes for 20202 American Community Survey 1-Year Estimates.* https://www.census.gov/newsroom/press-releases/2021/changes-2020-acs-1-year.html
