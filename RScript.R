@@ -45,7 +45,7 @@ for(i in hvector){
                        'LAPTOP','BROADBND','PARTNER','FS',
                        'COMPOTHX','TABLET','FPARC','MULTG',
                        'HUPAC','HUPAOC','ACCESSINET','NRC',
-                       'NP','HINCP'
+                       'NP','HINCP','HHLANP'
             )
   )
   hmega_df<-bind_rows(hmega_df,df)
@@ -127,7 +127,7 @@ HISPrecoded$val_min<-as.integer(HISPrecoded$val_min)
 df<-df%>%left_join(HISPrecoded, by = c('HISPexact'='val_min'))
 dfHISP<-dfHISP%>%left_join(HISPrecoded, by = c('HISPexact'='val_min'))
 
-# Demographics Tables: 1, 1.1, 2, 2.2-------------------------------------------
+# Demographics Tables: 1, 1.1, 2, 2.1, 2.2--------------------------------------
 # Table 1
 resultRAC<-dfHISP %>% group_by(DEAR,RAC1P)%>%
   summarise(n=n())%>%
@@ -149,6 +149,33 @@ result<-dfHISP %>% group_by(DEAR,val_label)%>%
   mutate(percentage = paste0(round(n/sum(n)*100,2),'%'))%>%
   arrange(desc(n))%>%
   unite(col = 'Hispanic group', c('DEAR','val_label'),sep = ' ')
+
+# Table 2.1
+thelanguage<-read.csv(paste(getwd(),'Assets/HHLANP_recode.csv',sep ='/'))
+
+result<-dfHISP%>%
+  filter(DEAR == 'deaf')%>%
+  group_by(HHLANP)%>%
+  summarise(n = n())%>%
+  arrange(desc(n))%>%
+  left_join(thelanguage, by = c('HHLANP' = 'recode'))
+
+otherlanguage<-result%>%
+  na.omit()%>%
+  filter(n < 351)%>%
+  summarise(n = sum(n))
+
+otherlanguage$language <- 'Other language'
+
+result<-result%>%
+  filter(n >= 351)%>%
+  na.omit()%>%
+  bind_rows(otherlanguage)%>%
+  select(-HHLANP)
+
+result%>%
+  mutate(percentage = n/sum(n))%>%
+  select(language, n, percentage)
 
 # Table 2
 threeGroupCalculator <- function(x,z){
