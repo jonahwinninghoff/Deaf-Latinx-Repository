@@ -1,6 +1,6 @@
 # Deaf-Latinx-Repository
 
-**[Overview](#overview)** | **[How To Start](#start)** | **[Why the 2020 PUMS Dataset Excludes](#files)**
+**[Overview](#overview)** | **[How To Start](#start)** | **[Why the 2020 PUMS Dataset Excludes](#whyfiles)**
 
 ## Overview <a id = 'overview'></a>
 
@@ -22,7 +22,7 @@ The prerequisite for conducting all assessments is at least 51 GB of memory spac
 
 6. After this first script is completed, the ```TimeSeries.R``` script needs to run.
 
-## Why the 2020 PUMS Dataset Excludes <a id = 'files'></a>
+## Why the 2020 PUMS Dataset Excludes <a id = 'whyfiles'></a>
 
 The 2020 PUMS dataset of 1-year estimates is largely unusable due to nonresponse bias. [Census Bureau](https://www.census.gov/newsroom/press-releases/2021/changes-2020-acs-1-year.html) staff found a high nonresponse rate among people with lower income, lower educational attainment, and those less likely to own their homes. The implication is that this dataset could compromise the quality of assessments and potentially misrepresent deaf postsecondary outcomes.
 
