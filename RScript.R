@@ -178,6 +178,10 @@ result%>%
   select(language, n, percentage)
 
 # Table 2
+df<-df%>%
+  mutate(HHLANX = ifelse(HHLANP == 9500,'Speak English only',
+                         'Speak another language at home'))
+
 threeGroupCalculator <- function(x,z){
   result<-df%>%
     group_by(DEAR,HISP,{{x}})%>%
@@ -209,7 +213,7 @@ df<-df%>% # Create SSI variable
 
 resultPLUS<-threeGroupCalculator(PLUS,'PLUS')           # Disability
 resultOrigin <- threeGroupCalculator(origin,'origin')   # origin
-resultLanx <- threeGroupCalculator(language,'language') # language
+resultHHLanx <- threeGroupCalculator(HHLANX,'HHLANX') # language
 resultSSI <- threeGroupCalculator(SSI,'SSI')            # SSI
 
 
@@ -360,25 +364,23 @@ resultOrigin<-employed_df%>%
 
 # Language
 resultLanx <- employed_df%>%
-  group_by(DEAR,HISP,LANX,ESR)%>%
+  group_by(DEAR,HISP,HHLANX,ESR)%>%
   summarise(n=n(), PWGTP = sum(PWGTP))
 
 ESRN<-resultLanx%>%
   na.omit()%>%
-  group_by(DEAR,HISP,LANX)%>%
+  group_by(DEAR,HISP,HHLANX)%>%
   summarise(NPWGTP = sum(PWGTP))
 
 resultLanx<-employed_df%>%
   filter(fullTime == 'yes')%>%
-  group_by(DEAR,HISP,LANX)%>%
+  group_by(DEAR,HISP,HHLANX)%>%
   summarise(earning = median(PERNP))%>%
-  left_join(resultLanx, by = c('DEAR','HISP','LANX'))%>%
+  left_join(resultLanx, by = c('DEAR','HISP','HHLANX'))%>%
   filter(ESR == 'employed')%>%
-  left_join(ESRN, by = c('DEAR','HISP','LANX'))%>%
-  mutate(emp_rate = paste0(round(PWGTP/NPWGTP*100,2),'%'),
-         LANX = ifelse(LANX == 1, 'Speak another language at home',
-                       ifelse(is.na(LANX),NA,'Speak English only')))%>%
-  rename('Category' = 'LANX')
+  left_join(ESRN, by = c('DEAR','HISP','HHLANX'))%>%
+  mutate(emp_rate = paste0(round(PWGTP/NPWGTP*100,2),'%'))%>%
+  rename('Category' = 'HHLANX')
 
 # Race
 resultRace <- employed_df%>%
